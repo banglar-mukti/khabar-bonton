@@ -1,0 +1,5 @@
+Django==2.2.7
+django-rest-auth==0.9.5
+djangorestframework==3.10.3
+Faker==2.0.4
+sqlparse==0.3.0
