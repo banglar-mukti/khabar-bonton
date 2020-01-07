@@ -1,2 +1,13 @@
+# backend
+
 *.pyc
 db.sqlite3
+
+#frontend
+
+# dependencies
+/node_modules
+
+# production
+/build
+/dist
