@@ -1,5 +1,7 @@
 # backend
-
+bin/
+include/
+lib/
 *.pyc
 db.sqlite3
 
